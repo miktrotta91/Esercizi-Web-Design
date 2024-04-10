@@ -1,5 +1,5 @@
 footer{
-    background-color:rgb(68, 111, 211) ;
+    background-color:rgb(255, 255, 255) ;
 }
 .footerContainer{
     width:100% ;
@@ -74,3 +74,4 @@ transition: 0.5s;
         text-align: center;
         margin: 10px;
     }
+}
